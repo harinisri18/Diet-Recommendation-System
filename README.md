@@ -27,9 +27,13 @@ The existing system struggles to provide a weight gain/loss scheme to a user bas
 Here the system is build with help of food.csv and nutrition_distribution.csv and thereby it calculates the BMI with help of manual entry and calculates if the person is healthy / over weight / underweight and recommendes the food that can be taken in breakfast / lunch / dinner so that a person can achieve weight loss / weight gain accordingly.
 
 A working prototype of a Diet Recommendation System is established. The module works on the basis of K-Means Clustering and Random Forest Classification Algorithms. Tkinter-based GUI is implemented.
+
 METHODS : Tkinter
+
 Recommendation System
+
 Random Forest
+
 K-Mean Clustering
 
 Future Scope for personalized meal and diet recommendation system

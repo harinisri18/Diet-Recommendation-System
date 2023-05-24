@@ -1,6 +1,6 @@
 # Diet-Recommendation-System
 
-The goal of application is to provide a platform where users find their Nutritious food according to their personal health preferences according to their BMI and recommend food separately for weight loss and gain categories and build a behavior of living healthy life and I have also build the recommendation system wherein it helps to identify the suitable drug names that can be recommended for the diseases respectively.
+The goal of application is to provide a platform where users find their Nutritious food according to their personal health preferences according to their BMI and recommend food separately for weight loss and gain categories and build a behavior of living healthy life.
 
 The flow of the project :
 
